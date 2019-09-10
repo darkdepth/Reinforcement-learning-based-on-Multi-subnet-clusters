@@ -1,9 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Sun May  6 01:15:20 2018
-
-@author: lihaoruo
+ily 
 """
 import operator
 
