@@ -17,7 +17,7 @@ The proposed algorithm obtains 21.0. It is the maximum score that can be obtaine
 
 ### Installation Dependencies:
 - Python 2.7 or 3
-- TensorFlow 1.4+
+- TensorFlow 1.0+
 - Pygame
 - Numpy
 
