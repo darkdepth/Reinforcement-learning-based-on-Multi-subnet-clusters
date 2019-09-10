@@ -2,9 +2,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
 """
-Created on Thu Mar  8 23:45:19 2018
-
-@author: lihaoruo
+ily
 """
 
 import threading
