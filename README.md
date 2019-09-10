@@ -22,4 +22,4 @@ The proposed algorithm obtains 21.0. It is the maximum score that can be obtaine
 - Numpy
 
 ### How to run:
-    python myapexdqn_3_8.py
+    python MSC-RL_3_8.py
